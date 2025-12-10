@@ -16,3 +16,7 @@ Instrucciones para instalar tu proyecto. Por ejemplo:
 git clone https://github.com/rajnaroc/api-rest.git
 cd api-rest
 pip install -r requirements.txt
+
+## Seguridad y puesta en producción
+
+Consulta [docs/seguridad_produccion.md](docs/seguridad_produccion.md) para ver recomendaciones adicionales sobre hardening de la API, control del pipeline y operación segura en producción.
